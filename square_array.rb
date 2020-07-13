@@ -10,3 +10,6 @@
 #   array_2
   
 # end
+
+def square_array(array)
+  array.collect
